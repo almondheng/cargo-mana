@@ -1,2 +1,2 @@
 # cargo-mana
-Demo of object tracking and motion tracking to detect boxes
+Demo of object tracking and motion tracking to detect boxes using OpenCV.
